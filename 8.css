@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+.list:nth-child(odd) {
+  margin: 0 50px;
+  padding: 20px;
+  list-style: none;
+}
